@@ -1,0 +1,14 @@
+{
+  "picBed": {
+    "current": "github",
+    "github": {
+      "repo": "zn5p74r82y-lang/image-bed",
+      "branch": "main",
+      "token": "你的GitHubToken",
+      "path": "assets/",
+      "customUrl": "https://raw.githubusercontent.com/zn5p74r82y-lang/image-bed/main"
+    },
+    "uploader": "github"
+  },
+  "picgoPlugins": {}
+}
